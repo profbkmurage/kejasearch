@@ -209,27 +209,3 @@
 			</div>
 
 		</section>
-
-		<form action="index.html">
-								<div class="form-group">
-									<select name="year"required="please fill out this field"  id="yos">
-										<option selected value="year">filter your county</option>
-										<option value="Nairobi">Nairobi</option>
-										<option value="Kirinyaga">Kirinyaga</option>
-										<option value="Mombasa">Mombasa</option>
-										<option value="Kisumu">Kisumu</option>
-										<option value="Eldoret">Eldoret</option>
-										<option value="Nakuru">Nakuru</option>
-										<option value="Nyeri">Nyeri</option>
-									</select>
-								</div>							
-							</form>
-
-js file content
-1. houses content uploader
-2. houses content retriever and post to front end
-// like section counter on each house and also the blogs
-3. filter section 
-4. contact section 
-4blog section uploader
-5. blog retriever and post to fr\

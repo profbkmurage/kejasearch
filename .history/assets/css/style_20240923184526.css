@@ -243,7 +243,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../logo/black.jpg)no-repeat;
+    background:url(../images/welcome-hero/banner.jpg)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
@@ -767,13 +767,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     font-size:24px;
     font-weight: 500;
     text-transform: uppercase;
-    color: white;
 }
 .subscribe-title p{
     color:black;
     font-size:16px;
     font-weight: 500;
-    margin-top: 12px;
+    margin-top: 28px;
 }/*subscribe-title*/
 
 
@@ -784,15 +783,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     max-width: 630px;
     margin:0 auto;
 }
-.form-group label{color: white; display: block; }
+.form-group label{color: white; display: block;}
 .subscription-input-group .subscription-input-form, .form-group input, .form-group select, .form-group textarea{
     display: inline-block;
     width: 630px;
     height: 60px;
     padding-left:30px;
     font-size: 16px;
-    font-weight: bold;
-    color: black;
+    color: white;
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     border-radius:10px;
@@ -806,15 +804,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .subscription-input-group:hover .subscription-input-form, .form-group input, .form-group select, .form-group textarea{
     box-shadow: 0 5px 20px rgba(21,19,19,.4);
 }
-.subscription form{
+form{
     padding: 1rem;
     text-align: center;
     border-radius: 5px;
-	background: linear-gradient(153deg,rgba(221, 52, 52, 0.4),rgba(221, 5, 30, 0.4));
+	background: linear-gradient(153deg,rgba(90, 18, 18, 0.4),rgba(169, 6, 25, 0.4));
 }
-.form-group .btn{background-color: black; color: white;width: 50%;border: rgb(36, 3, 3) 2px solid; font-weight: bold;}
-
-#yos{width: 25rem; color: black; border: 1px solid red; font-weight: bold;margin-left: 2rem;}
 /*custom-input-group*/
 
 /*appsLand-btn*/

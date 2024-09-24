@@ -64,7 +64,7 @@
 
 	.subscribe-title h2 {line-height: 1.8;}
 	.appsLand-btn {position: relative;margin-top: 30px;}
-	.subscription-input-group .subscription-input-form,.form-group input, .form-group select, .form-group textarea {width: 450px;}
+	.subscription-input-group .subscription-input-form {width: 450px;}
 
 	.footer-menu .navbar-header a.navbar-brand, .footer-menu.footer-menu .navbar-header a.navbar-brand:hover, .footer-menu .navbar-header a.navbar-brand:focus {height: auto;}
 	.footer-social {text-align:left;margin-top: 20px;}
@@ -92,7 +92,7 @@
 }/*max-width:540px*/
 
 @media screen and (max-width: 480px){
-	.subscription-input-group .subscription-input-form,.form-group input, .form-group select, .form-group textarea {width: 300px;}
+	.subscription-input-group .subscription-input-form {width: 300px;}
 }/*max-width:480px*/
 
 @media screen and (max-width: 440px){
@@ -108,7 +108,7 @@
 	nav.navbar.bootsnav .navbar-toggle {margin-right: -25px;left:-10px;}
 	nav.navbar.bootsnav .navbar-brand {padding:25px 0;font-size: 20px;}
 	.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {padding: 25px 0px;}
-	.subscription-input-group .subscription-input-form, .form-group input, .form-group select, .form-group textarea {width: 220px;}
+	.subscription-input-group .subscription-input-form {width: 220px;}
 }/*max-width:350px*/
 
 @media screen and  (max-width: 320px){
